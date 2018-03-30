@@ -1,0 +1,10 @@
+set PATH=%PATH%;C:\Users\5835512032\AppData\Roaming\npm
+
+npm -g install nodemon
+
+npm install express
+
+npm install express-session
+
+npm install ejs
+
